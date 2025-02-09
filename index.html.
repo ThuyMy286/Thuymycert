@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chứng chỉ của tôi</title>
+</head>
+<body>
+    <h1>Danh sách chứng chỉ</h1>
+    <ul>
+        <li><a href="RA 2022 - THUY MY" target="_blank">Chứng chỉ 1</a></li>
+        <li><a href="RA 2024 - THUY MY" target="_blank">Chứng chỉ 2</a></li>
+        <li><a href="GREEN HOUSE GAS - THUY MY" target="_blank">Chứng chỉ 3</a></li>
+        <li><a href="CONTROL UNION - THUY MY" target="_blank">Chứng chỉ 2</a></li>
+        <li><a href="BRCGS VERSION 9 - THUY MY" target="_blank">Chứng chỉ 3</a></li>
+    </ul>
+</body>
+</html>
